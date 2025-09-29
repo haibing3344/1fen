@@ -13,7 +13,7 @@ Clash for Windows是Windows上流行的客户端，以下教程将提供Clash fo
 
 ## 1.下载与安装
 
-请在[此处](https://xn--4gq62f52gdss.com/down/clash.7z)下载。
+请在[此处](https://cmhk.node-is.green/d/root/clash_for_windows_x64_cn.zip)下载。
 
 Clash.for.Windows-0.XX.XX-win.7z（XX.XX具体随版本号而定）是绿色版，解压即用。
 
